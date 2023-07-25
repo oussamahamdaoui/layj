@@ -4,7 +4,7 @@
 
 **🏃🏽 Instant Feedback**: Fast, interactive watch mode.
 
-**📸 Snapshot Testing**: Capture snapshots of your API types and be notified if the API responses change
+**📸 Snapshot Testing**: Capture snapshots of your API types and be notified if the API responses changes
 
 ## Table of Contents
  - [Getting Started](#getting-started)
